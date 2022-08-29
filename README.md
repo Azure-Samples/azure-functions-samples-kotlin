@@ -13,7 +13,7 @@ languages:
 
 ⚠ This README is currently under construction. ⚠
 
-⚠ We are working towards supporting Azure functions Kotlin in the near future. Stay tuned for further updates ⚠
+⚠ Azure Functions currently does not fully support Kotlin. The samples in this repo may be leveraged for development & testing purposes only ⚠
 
 This repository contains samples which show the basic usage of [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) in Kotlin for the below scenarios.
 
